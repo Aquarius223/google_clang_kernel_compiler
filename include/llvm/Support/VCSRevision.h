@@ -1,0 +1,2 @@
+#define LLVM_REVISION "6e765c10313d15c02ab29977a82938f66742c3a9"
+#define LLVM_REPOSITORY "/buildbot/tmp/tmpOLDyyh"
